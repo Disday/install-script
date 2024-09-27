@@ -1,0 +1,15 @@
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.GeneratedMSBuildEditorConfig.editorconfig
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.AssemblyInfoInputs.cache
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.AssemblyInfo.cs
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.csproj.CoreCompileInputs.cache
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.sourcelink.json
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\bin\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.exe
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\bin\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.deps.json
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\bin\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.runtimeconfig.json
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\bin\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.dll
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\bin\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.pdb
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.dll
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\refint\165a5d6b4aaa9428e8e3f6525e81fa1a.dll
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.pdb
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\165a5d6b4aaa9428e8e3f6525e81fa1a.genruntimeconfig.cache
+D:\165a5d6b4aaa9428e8e3f6525e81fa1a\obj\Debug\net8.0\ref\165a5d6b4aaa9428e8e3f6525e81fa1a.dll
